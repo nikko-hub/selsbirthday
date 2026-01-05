@@ -33,9 +33,9 @@ export const generateBirthdayMessage = async (): Promise<BirthdayWish> => {
   } catch (error) {
     console.error("Gemini API Error:", error);
     return {
-      title: "To my dearest Sel,",
+      title: "To dearest Sel,",
       poem: "On this day, the sun shines a little brighter for you. May your path be filled with flowers, your heart with laughter, and your soul with the peace you bring to everyone around you.",
-      closing: "Wishing you a day as luminous as your soul. Happy Birthday, Sel. With love, always NiKz."
+      closing: "Wishing you a day as luminous as your soul. Happy Birthday, Sel! With love, always NiKz."
     };
   }
 };
