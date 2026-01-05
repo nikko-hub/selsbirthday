@@ -1,0 +1,7 @@
+{
+  "name": "Rosell's Birthday Surprise",
+  "description": "A personalized, elegant birthday celebration app for Rosell, featuring a secure login and AI-generated birthday wishes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
